@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cartoonify</string>
+    <string name="label">Select Model</string>
+</resources>

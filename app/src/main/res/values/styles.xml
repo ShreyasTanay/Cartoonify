@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ExposedDropdownMenu" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+        <item name="boxStrokeColor">#35B5AC</item>
+        <item name="boxStrokeWidth">2dp</item>
+        <item name="android:textColorHint">#000</item>
+        <item name="hintTextColor">#35B5AC</item>
+    </style>
+</resources>
